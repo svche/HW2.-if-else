@@ -17,12 +17,11 @@ namespace HomeWork2
             /* 
             double num1;
             double num2;
-
-
-            Console.Write("Enter number: ");
+            
+            Console.Write("Enter number1: ");
             num1 = double.Parse(Console.ReadLine());
 
-            Console.Write("Enter number: ");
+            Console.Write("Enter number2: ");
             num2 = double.Parse(Console.ReadLine());
             
             Console.WriteLine("\n" + num1 + " + " + num2 + " = " + (num1 + num2));
@@ -41,11 +40,18 @@ namespace HomeWork2
             // task 2.   (4/5)*x-20=0   x = ? 
 
             
-            object x;
-            double eq = 0;
-
+            double x;
+            double n1;
+            double n2;
+            for ()
             
-           
+
+
+
+
+
+
+
 
                 Console.ReadKey();
         }
