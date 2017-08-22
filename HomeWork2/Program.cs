@@ -38,18 +38,18 @@ namespace HomeWork2
              */
 
             // task 2.   (4/5)*x-20=0   x = ? 
-            /* */
+            /* 
 
             const double n1 = 4;
             const double n2 = 5;
             double num1;
+            num1 = n1 / n2;
             const int num2 = 20;
             double x;
-            num1 = n1 / n2;
 
             Console.WriteLine(x = num2 / num1);
             Console.ReadKey();
-            
+            */
         }
     }
 }
